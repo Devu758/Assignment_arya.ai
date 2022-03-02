@@ -1,0 +1,11 @@
+Needed library
+
+Numpy
+Pandas
+Seaborn
+sklearn
+Scipy
+Kendall tau
+Logistic regression
+Random forest
+Matplotlib
