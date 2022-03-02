@@ -11,7 +11,16 @@ No null value so no treatment needed here.
 "y" value are only 0 and 1 so no treatment needed here.
 
 ### Feature selection
-For feature selection two feature selection technique are used Mutual_information_gain which works on entropy gain basis and other is Kendalltau which work on null hypothesis, these feature work best for classification model since data is non linear so Anova is not chosen . According to these two feature two subset are created.
+This is a classification predictive modeling problem with numerical input variables. For this type of problem statistical correlation based models are preferred.
+
+Anova – F test based correlation best for linear model
+
+Kendall Tau – Null hypothesis based best for non linear model 
+
+Mutual Information gain – Entropy gain model
+
+For feature selection two feature selection technique are used Mutual_information_gain  and other is Kendalltau these feature work best for classification model since data is non linear so Anova is not chosen . According to these two feature two subset are created.
+
 ### Test-train data split and Scaling
 Validation and train data are created according to Given instruction.
 ### Model selection 
