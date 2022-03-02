@@ -18,3 +18,7 @@ Random Forest is based on the bagging algorithm and uses Ensemble Learning techn
 In this scenario Kendal tau with Random forest produce better accuracy with validation accuracy of 96.035%.
 
 ## Submission contains
+Rquirement text >> Assignment_arya.ai/Arya_DataScientist_Assignment/
+Submission file >> Assignment_arya.ai/Arya_DataScientist_Assignment/Data/
+Python file >> Assignment_arya.ai/Arya_DataScientist_Assignment/
+Read me >> Assignment_arya.ai/Arya_DataScientist_Assignment/
